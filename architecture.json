@@ -1,0 +1,160 @@
+{
+  "book_id": "beat-generation-surrealist-gender-dynamics",
+  "title": "The Hungry Multitudes",
+  "tagline": "A painter and a poet hunt a phantom woman through the underbelly of the Beat generation, where every truth is a collage and every body is a battleground.",
+  "target_words": 70000,
+  "actual_words": 75334,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Male Gaze as a Cage",
+    "Artistic Creation vs. Patriarchal Documentation",
+    "Bodies as Collages of Expectation and Revolt",
+    "The Ghost in the Capitalist Machine"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Typewriter Rain",
+      "words": 3139
+    },
+    {
+      "ch": 2,
+      "title": "The Algonquin Proposition",
+      "words": 3139
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost of Mira Green",
+      "words": 3139
+    },
+    {
+      "ch": 4,
+      "title": "The Jazz Cellar Testament",
+      "words": 3139
+    },
+    {
+      "ch": 5,
+      "title": "Canvas and Ledger",
+      "words": 3139
+    },
+    {
+      "ch": 6,
+      "title": "The Shepherdess Smashed",
+      "words": 3139
+    },
+    {
+      "ch": 7,
+      "title": "Bop Apocalypse",
+      "words": 3139
+    },
+    {
+      "ch": 8,
+      "title": "Confessions in Turpentine",
+      "words": 3139
+    },
+    {
+      "ch": 9,
+      "title": "The Wrong Suit Men",
+      "words": 3139
+    },
+    {
+      "ch": 10,
+      "title": "A Hunger Named Cassandra",
+      "words": 3139
+    },
+    {
+      "ch": 11,
+      "title": "The Dough-Faced Pursuit",
+      "words": 3139
+    },
+    {
+      "ch": 12,
+      "title": "Midnight in the Museum of Men",
+      "words": 3139
+    },
+    {
+      "ch": 13,
+      "title": "The Bay Rum Trail",
+      "words": 3139
+    },
+    {
+      "ch": 14,
+      "title": "Cut from Light-Absorbing Cloth",
+      "words": 3139
+    },
+    {
+      "ch": 15,
+      "title": "Oracle at the Hotplate",
+      "words": 3139
+    },
+    {
+      "ch": 16,
+      "title": "The Collage of Guilt",
+      "words": 3139
+    },
+    {
+      "ch": 17,
+      "title": "Fugue for Boiled Ham",
+      "words": 3139
+    },
+    {
+      "ch": 18,
+      "title": "Where the Journal Stopped",
+      "words": 3139
+    },
+    {
+      "ch": 19,
+      "title": "Empathy Evacuation",
+      "words": 3139
+    },
+    {
+      "ch": 20,
+      "title": "The Shape of Words in Air",
+      "words": 3139
+    },
+    {
+      "ch": 21,
+      "title": "Funereal Cadillac",
+      "words": 3139
+    },
+    {
+      "ch": 22,
+      "title": "The Translation of Last Names",
+      "words": 3139
+    },
+    {
+      "ch": 23,
+      "title": "Cathedral of Chaos",
+      "words": 3139
+    },
+    {
+      "ch": 24,
+      "title": "The Ledger of Multitudes",
+      "words": 3139
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Cassandra types a poem that accidentally predicts a minor, surreal event in the next 24 hours.",
+      "Create a monologue from the perspective of Mira Green, explaining why she took the ledger and what she believes it truly contains.",
+      "Describe a new character Leo and Cassandra meet in a late-night diner: a bus driver who speaks only in cryptic, cut-up newspaper headlines.",
+      "Imagine a chapter from the point of view of Leo's father, as he waits in the hotel suite, focusing on the textures and smells he uses to armor himself against his son's world."
+    ],
+    "technical": [
+      "Build a web-based 'collage machine' where users can layer text from the novel, Beat poetry, and financial news headlines to generate new surreal prose.",
+      "Create a text analyzer that identifies and visualizes the 'gender dynamics' of dialogue in the novel, mapping who speaks, interrupts, describes, or is described."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (Cut-up technique, paranoid systems)",
+      "Kathy Acker (Pirated narratives, bodily revolt)",
+      "Leonora Carrington (Feminist surrealism, symbolic rebellion)",
+      "James Baldwin (Incendiary social critique, lyrical precision)"
+    ]
+  },
+  "cover_prompt": "A gaunt, spectral woman composed of fragmented magazine clippings, vintage advertisements, and torn poetry manuscripts floats ethereally, her form both coalescing and dissolving, pursued by the intense, searching gazes of a disheveled painter and a frantic poet, [Detailed Scene & Context: set in a dim, smoke-hazed Beatnik basement apartment littered with empty wine bottles, crumpled sketches, and a ticking stock ticker tape machine spewing endless paper, the walls plastered with overlapping art and frantic scribbles that form a chaotic collage], [Artistic Style & Medium: in the atmospheric style of a surrealist collage by Hannah Höch combined with the gritty, expressive linework and psychological tension of Francis Bacon, rendered as a mixed-media photomontage with oil paint textures and visible tape edges], [Composition & Camera: book cover framing, a centered and claustrophobic composition where the phantom woman is the focal point, viewed from a low, dramatic angle as if looking up from the floor, creating a sense of both reverence and entrapment], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single bare bulb casting long, distorting shadows, color palette of sepia tones, bruised purples, nicotine-stained yellows, and splashes of violent crimson, [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
